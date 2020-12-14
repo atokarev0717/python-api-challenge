@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 VacationPy/api_key.py
 WeatherPy/api_key.py
+./WeatherPy/api_key.py
+./VacationPy/api_key.py
