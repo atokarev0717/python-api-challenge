@@ -25,7 +25,7 @@ The second step of the first exersize, I separated the plots into Northern Hemis
 #### Part II
 [VacationPy](VacationPy/VacationPy.ipynb)
 
-This part of the project utilises gmaps extension to create a [heat map](Images/heat_map.png) that displays the humidity for every city from **Part I**
+This part of the project utilises gmaps extension to create a [heat map](Images/heat_map.png) that displays the humidity for every city from Part I
 
 As the next, step I narrowed down the list of citiest by applying the following weather conditions:
   * A max temperature lower than 80 degrees but higher than 70.
